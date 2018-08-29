@@ -7,19 +7,19 @@
         "scorePages": [
             {
                 "scoreName": "练习曲_0001",
-                "scorePath": "http://pianotest.oss-cn-beijing.aliyuncs.com/iclass/svg/891bb7328d3f4fd3b672ff34084851c0.svg"
+                "scorePath": "/iclass/svg/891bb7328d3f4fd3b672ff34084851c0.svg"
             },
             {
                 "scoreName": "练习曲_0002",
-                "scorePath": "http://pianotest.oss-cn-beijing.aliyuncs.com/iclass/svg/0ca9535675e542f581827ae4a6a348b2.svg"
+                "scorePath": "/iclass/svg/0ca9535675e542f581827ae4a6a348b2.svg"
             },
             {
                 "scoreName": "练习曲_0003",
-                "scorePath": "http://pianotest.oss-cn-beijing.aliyuncs.com/iclass/svg/1ff61742a0924c02857d1c11c7aa53c9.svg"
+                "scorePath": "/iclass/svg/1ff61742a0924c02857d1c11c7aa53c9.svg"
             },
             {
                 "scoreName": "练习曲_0004",
-                "scorePath": "http://pianotest.oss-cn-beijing.aliyuncs.com/iclass/svg/d59944e308a0460fb09e4eb2e4b78778.svg"
+                "scorePath": "/iclass/svg/d59944e308a0460fb09e4eb2e4b78778.svg"
             }
         ],
         "slowAudio": {
