@@ -539,6 +539,16 @@
         "readyBeat": 2,
         "slowTempo": 40
     },
+    "accompany":{
+        "normalAudio": {
+            "audioName": "小星星伴奏正常速度",
+            "audioPath": "/score/小星星/伴奏/音频/小星星伴奏正常速度.mp3"
+        },
+        "slowAudio": {
+            "audioName": "小星星伴奏慢速",
+            "audioPath": "/score/小星星/伴奏/音频/小星星伴奏慢速.mp3"
+        }
+    },
     "playOrder": [
         {
             "begin": 1,
