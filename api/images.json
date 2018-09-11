@@ -1,3 +1,36 @@
 {
-    "data":["https://incarxsh.github.io/api/images/m1.jpg","https://incarxsh.github.io/api/images/m2.jpg","https://incarxsh.github.io/api/images/m3.jpg","https://incarxsh.github.io/api/images/m4.jpg"]
+    "code": "0",
+    "data": {
+        "bannerList": [
+            {
+                "adName": "课程广告1",
+                "displayPage": 1,
+                "imageUrl": "https://incarxsh.github.io/api/images/m1.jpg",
+                "linkUrl": "http://www.biaonimeia.com/login",
+                "sortNo": 1
+            },
+            {
+                "adName": "课程广告2",
+                "displayPage": 1,
+                "imageUrl": "https://incarxsh.github.io/api/images/m2.jpg",
+                "linkUrl": "",
+                "sortNo": 4
+            },
+            {
+                "adName": "课程广告3",
+                "displayPage": 1,
+                "imageUrl": "https://incarxsh.github.io/api/images/m3.jpg",
+                "linkUrl": "https://www.baidu.com",
+                "sortNo": 3
+            },
+            {
+                "adName": "课程广告4",
+                "displayPage": 1,
+                "imageUrl": "https://incarxsh.github.io/api/images/m4.jpg",
+                "linkUrl": "/teacher/home",
+                "sortNo": 2
+            }
+        ]
+    },
+    "msg": "成功"
 }
