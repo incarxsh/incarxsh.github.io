@@ -1,0 +1,6 @@
+.note_main .top{background: #293C55;height: 50px;line-height: 50px;}
+.note_main .top p{color: #fff;text-align: center;}
+.note_main .left{position: absolute;background: #FAFAFC;width: 280px;box-sizing: border-box;padding-left: 10px;top: 50px;bottom: 0;overflow-y: auto;}
+.note_main .right{position: absolute;left: 280px;right: 0;top: 50px;bottom:0;background: #FAFAFC;padding: 15px 50px;border-left: 1px solid #ddd;overflow-y: auto;}
+.note_main ul li p{color: #333;}
+.note_main ul li p:hover{background: #E8CAD4;}

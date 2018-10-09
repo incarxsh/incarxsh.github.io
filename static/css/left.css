@@ -1,0 +1,16 @@
+ul li span.span{display:inline-block;width:15px}
+ul.tree>li>ul{padding-left:0}
+ul.tree li ul li ul{display:none}
+ul li{list-style-type:none;cursor:pointer}
+ul li p{height:30px;line-height:30px;padding-left:15px;color: #fff;}
+ul li p:hover{background:#111}
+ul li i.iconfont{margin-right:10px}
+.tip{width:120px;padding-left:20px;display:none;position:absolute}
+.tip .layui-nav-child{display:block;position:initial;left:initial}
+.tip .layui-nav-child dd{padding-left:15px}
+.tip .layui-nav-child dd a{display:block}
+.tip .layui-nav-child dd:hover{background:#1e9fff;color:#fff}
+.tip .layui-nav-child dd:hover a{color:#fff}
+.orderli{padding:10px}
+.orderli li{width:350px;height:30px;line-height:30px}
+.layui-side{overflow-x: initial !important;}
