@@ -204,6 +204,7 @@ pre[class*="language-"].line-numbers.line-numbers {
 
 pre[class*="language-"].line-numbers.line-numbers code {
 	padding-left: 3.8em;
+	box-shadow: -1px 0px 0px 0px #358ccb, 0px 0px 0px 1px #dfdfdf;
 }
 
 pre[class*="language-"].line-numbers.line-numbers .line-numbers-rows {
